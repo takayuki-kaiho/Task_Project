@@ -10,31 +10,8 @@
                 <mxCell id="4" value="&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 12px;&quot;&gt;新規ユーザ&lt;br&gt;登録&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontSize=11;" parent="1" vertex="1">
                     <mxGeometry x="53" y="372" width="70" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="&lt;font color=&quot;#1a1a1a&quot;&gt;タスク一覧画面&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;verticalAlign=top;" parent="1" vertex="1">
-                    <mxGeometry x="770" y="160" width="150" height="350" as="geometry"/>
-                </mxCell>
-                <mxCell id="8" value="&lt;span style=&quot;font-family: &amp;quot;Noto Sans JP&amp;quot;, &amp;quot;ヒラギノ角ゴ Pro W3&amp;quot;, &amp;quot;Hiragino Kaku Gothic Pro&amp;quot;, メイリオ, Meiryo, YuGothic, 游ゴシック, &amp;quot;ＭＳ Ｐゴシック&amp;quot;, &amp;quot;MS PGothic&amp;quot;, arial, sans-serif; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#1a1a1a&quot;&gt;登録&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-                    <mxGeometry x="815" y="184" width="70" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="9" value="更新" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;flipV=1;flipH=1;" parent="1" vertex="1">
-                    <mxGeometry x="815" y="258.5" width="70" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="11" value="&lt;span style=&quot;font-family: &amp;quot;Noto Sans JP&amp;quot;, &amp;quot;ヒラギノ角ゴ Pro W3&amp;quot;, &amp;quot;Hiragino Kaku Gothic Pro&amp;quot;, メイリオ, Meiryo, YuGothic, 游ゴシック, &amp;quot;ＭＳ Ｐゴシック&amp;quot;, &amp;quot;MS PGothic&amp;quot;, arial, sans-serif; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#1a1a1a&quot;&gt;削除&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;flipV=1;flipH=1;" parent="1" vertex="1">
-                    <mxGeometry x="815" y="320" width="70" height="30" as="geometry"/>
-                </mxCell>
                 <mxCell id="30" value="&lt;font color=&quot;#1a1a1a&quot;&gt;ログイン&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
                     <mxGeometry x="53" y="190" width="70" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="110" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;" parent="1" source="54" target="32" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="850" y="530"/>
-                            <mxPoint x="88" y="530"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="54" value="&lt;span style=&quot;font-family: &amp;quot;Noto Sans JP&amp;quot;, &amp;quot;ヒラギノ角ゴ Pro W3&amp;quot;, &amp;quot;Hiragino Kaku Gothic Pro&amp;quot;, メイリオ, Meiryo, YuGothic, 游ゴシック, &amp;quot;ＭＳ Ｐゴシック&amp;quot;, &amp;quot;MS PGothic&amp;quot;, arial, sans-serif; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#1a1a1a&quot;&gt;ログアウト&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-                    <mxGeometry x="810" y="470" width="70" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="103" value="&lt;font color=&quot;#1a1a1a&quot;&gt;新規ユーザ登録画面&lt;/font&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fillColor=#f9f7ed;strokeColor=#36393d;verticalAlign=top;" parent="1" vertex="1">
                     <mxGeometry x="180" y="333.5" width="120" height="121" as="geometry"/>
@@ -62,19 +39,19 @@
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="143" value="&lt;font color=&quot;#1a1a1a&quot;&gt;プロジェクト一覧画面&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;verticalAlign=top;" parent="1" vertex="1">
-                    <mxGeometry x="450" y="160" width="160" height="350" as="geometry"/>
+                <mxCell id="143" value="&lt;font color=&quot;#1a1a1a&quot;&gt;プロジェクトタスク一覧画面&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="450" y="160" width="180" height="350" as="geometry"/>
                 </mxCell>
                 <mxCell id="147" value="&lt;span style=&quot;font-family: &amp;quot;Noto Sans JP&amp;quot;, &amp;quot;ヒラギノ角ゴ Pro W3&amp;quot;, &amp;quot;Hiragino Kaku Gothic Pro&amp;quot;, メイリオ, Meiryo, YuGothic, 游ゴシック, &amp;quot;ＭＳ Ｐゴシック&amp;quot;, &amp;quot;MS PGothic&amp;quot;, arial, sans-serif; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#1a1a1a&quot;&gt;登録&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
                     <mxGeometry x="495" y="186" width="70" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="148" value="更新" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;flipV=1;flipH=1;" parent="1" vertex="1">
-                    <mxGeometry x="495" y="258.5" width="70" height="30" as="geometry"/>
+                    <mxGeometry x="495" y="240" width="70" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="149" value="&lt;span style=&quot;font-family: &amp;quot;Noto Sans JP&amp;quot;, &amp;quot;ヒラギノ角ゴ Pro W3&amp;quot;, &amp;quot;Hiragino Kaku Gothic Pro&amp;quot;, メイリオ, Meiryo, YuGothic, 游ゴシック, &amp;quot;ＭＳ Ｐゴシック&amp;quot;, &amp;quot;MS PGothic&amp;quot;, arial, sans-serif; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#1a1a1a&quot;&gt;削除&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;flipV=1;flipH=1;" parent="1" vertex="1">
-                    <mxGeometry x="495" y="320" width="70" height="30" as="geometry"/>
+                    <mxGeometry x="495" y="290" width="70" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="177" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shape=flexArrow;" edge="1" parent="1" source="150">
+                <mxCell id="177" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shape=flexArrow;" parent="1" source="150" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="55" y="460" as="targetPoint"/>
                         <mxPoint x="495" y="500" as="sourcePoint"/>
@@ -94,18 +71,6 @@
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="275" y="386.5" as="sourcePoint"/>
                         <mxPoint x="450" y="387.5" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="174" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Noto Sans JP, ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, YuGothic, 游ゴシック, ＭＳ Ｐゴシック, MS PGothic, arial, sans-serif&quot;&gt;タスク一覧&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;flipV=1;flipH=1;" vertex="1" parent="1">
-                    <mxGeometry x="495" y="402" width="70" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="175" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Noto Sans JP, ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, YuGothic, 游ゴシック, ＭＳ Ｐゴシック, MS PGothic, arial, sans-serif&quot;&gt;プロジェクト一覧&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;flipV=1;flipH=1;" vertex="1" parent="1">
-                    <mxGeometry x="792.5" y="402" width="115" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="176" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.994;entryY=0.734;entryDx=0;entryDy=0;entryPerimeter=0;shape=flexArrow;startArrow=block;" edge="1" parent="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="771.73" y="416.6" as="sourcePoint"/>
-                        <mxPoint x="588.27" y="416.5000000000001" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
             </root>
